@@ -3,4 +3,4 @@ https://roadmap.sh/projects/single-page-cv
 
 Process>
 
-Open The Html Page In A Browser. Thats It!
+Open The Html Page On A Browser. Thats It!
